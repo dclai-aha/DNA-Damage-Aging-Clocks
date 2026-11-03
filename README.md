@@ -124,8 +124,6 @@ The reproduction workflow:
 
 `reference/` contains the S4 model-performance and S5 predicted-age statistics used by `scripts/compare_supplementary.py`. Numerical comparison rules and recorded discrepancies are documented in [`docs/VALIDATION.md`](docs/VALIDATION.md).
 
-For AP-Exon TopN=2000, the supplied nonzero LASSO file contains 77 features, while the reference supplementary table records 76. The reproduction workflow uses all 77 listed features.
-
 ## Data scope
 
 The repository contains filtered LPKM analysis matrices, not raw sequencing reads. Sequencing-read accession information and associated article identifiers should be supplied separately when available.
