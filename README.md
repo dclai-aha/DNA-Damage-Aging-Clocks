@@ -51,7 +51,6 @@ Each `features/<dataset>/` directory contains `Spearman_corr_df.csv` and eight s
 | Component | Version |
 | --- | --- |
 | Python | 3.13.9 |
-| Operating system | Windows-11-10.0.26200-SP0 |
 | NumPy | 2.4.4 |
 | pandas | 2.3.3 |
 | SciPy | 1.16.3 |
@@ -126,4 +125,4 @@ The reproduction workflow:
 
 ## Data scope
 
-The repository contains filtered LPKM analysis matrices, not raw sequencing reads. Sequencing-read accession information and associated article identifiers should be supplied separately when available.
+The repository contains filtered LPKM analysis matrices, not raw sequencing reads.
