@@ -121,7 +121,7 @@ The reproduction workflow:
 
 ## Supplementary-table comparison
 
-`reference/` contains the S4 model-performance and S5 predicted-age statistics used by `scripts/compare_supplementary.py`. Numerical comparison rules and recorded discrepancies are documented in [`docs/VALIDATION.md`](docs/VALIDATION.md).
+`reference/` contains the S4 model-performance and S5 predicted-age statistics used by `scripts/compare_supplementary.py`. 
 
 ## Data scope
 
